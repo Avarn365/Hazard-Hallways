@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: 3bf971ec10ae57c4fbe6a3d66552c711
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: ef9adf480ea42f74da8ec85427f44fc8
+  - enabled: 1
+    path: Assets/Scenes/Difficulty Selection.unity
+    guid: ab97ce71db2ffe940a7192ce8860597a
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select Beginning 1.unity
+    guid: cc1ee7d2e1a92254b99ddedd1588164d
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select Beginning 2.unity
+    guid: 58b17139aa84848469eadd324ac5ec90
+  - enabled: 1
+    path: Assets/Scenes/Level A1.unity
+    guid: 3b52c07adede3fd42a897a1af16188f4
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select A1.unity
+    guid: e00e638a54c5b4748a24330236e6a6e5
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select A2.unity
+    guid: 7cfd0a76fd6f6a74e9cea01cfe38efd3
+  - enabled: 1
+    path: Assets/Scenes/Dodge 'Em!.unity
+    guid: b45d1974e4103904cac0fafca89fc380
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select AA1.unity
+    guid: 2b69f59420bc70a47bdb4d93dc72122c
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select AA2.unity
+    guid: 4929a7d5bd4e97c4bab8e40f80dd9f70
+  - enabled: 1
+    path: Assets/Scenes/Spinny Things.unity
+    guid: 57d52233c0c62104fb378b5e54fdb78a
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select AB2.unity
+    guid: fe5af8ec219dc9849807cb80a52a29df
+  - enabled: 1
+    path: Assets/Scenes/Hard Level Select AB1.unity
+    guid: 50deef661ce98ae4ea430d8e7de3f038
+  - enabled: 1
+    path: Assets/Scenes/How Low Can You Go.unity
+    guid: 49d858c45ccabb44a828c9c6f7f4d681
+  - enabled: 1
+    path: Assets/Scenes/Dark As The Night.unity
+    guid: 56c0c3253412fca44aced2d0223c6042
+  - enabled: 1
+    path: Assets/Scenes/Jumping For Joy.unity
+    guid: 9a6e1f970707b884d9c7841ccda56469
+  - enabled: 1
+    path: Assets/Scenes/Prototype Complete.unity
+    guid: 19a62fa2818c4a843b5a3866bbd8db39
+  m_configObjects: {}
